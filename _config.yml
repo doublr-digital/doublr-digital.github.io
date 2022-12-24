@@ -1,5 +1,5 @@
-baseurl: /doublr.digital # the subpath of your site, e.g. /blog
-url: https://reda-jaifar.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://doublr-digital.github.io
 
 # Build settings
 markdown: kramdown
