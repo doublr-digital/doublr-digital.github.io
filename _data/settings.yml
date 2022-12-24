@@ -6,7 +6,7 @@ title: Doublr Digital
 logo:
 author: Reda JAIFAR
 description: Doublr Digital IT consultancy Company
-email: steve.fruits@email.com
+email: contact@doublr.digital
 phone: +33 695 780 412
 address: Rue La Fayette, 75009 Paris
 copyright: Copyright &copy; 2022 Doublr Digital
@@ -59,27 +59,27 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "We address 3 pillars: viability for the business, desirability to measure the match between value proposition and user fit, and finally the feasibility"
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Create UX personas through user interviews and define those early users who will co-build and validate the delivering value"
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Using clean code, best practices and adequate architectures to deliver highly robust and effective software"
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Reda JAIFAR"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Senior Software Engineer"
 
-  - title: "Julias Carlie"
+  - title: "Ghazal Rim"
     image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+    designation: "IT Consultant"
 
-  - title: "John Doe"
+  - title: "Abraham Leyth"
     image: "assets/images/team/member-3.png"
     designation: "Designer"
 
@@ -88,10 +88,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: MVP conducting , color: "#fdb157", value: "90%" }
+  - { name: Software Development, color: "#9473e6", value: "60%" }
+  - { name: Cloud Computing, color: "#bdecf6", value: "80%" }
+  - { name: Training, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
