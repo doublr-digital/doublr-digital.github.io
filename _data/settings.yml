@@ -7,8 +7,8 @@ logo:
 author: Reda JAIFAR
 description: Doublr Digital IT consultancy Company
 email: contact@doublr.digital
-phone: +33 695 780 412
-address: Rue La Fayette, 75009 Paris
+phone: +33 174 344 512
+address: 33 Rue La Fayette, 75009 Paris
 copyright: Copyright &copy; 2022 Doublr Digital
 
 menu:
@@ -86,7 +86,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Offers
 skills:
   - { name: MVP conducting , color: "#fdb157", value: "90%" }
   - { name: Software Development, color: "#9473e6", value: "60%" }
@@ -99,23 +99,23 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
-    }
+    name: Junior UX Designer,
+    icon: "icon-1.png",
+    date: "Jan 2007 - Feb 2009",
+    organization: "WEBEX",
+  }
   - {
-      name: UX & UI Designer,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
-    }
+    name: UX & UI Designer,
+    icon: "icon-2.png",
+    date: "Mar 2009 - Aug 2014",
+    organization: "AUGMEDIX",
+  }
   - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
+    name: Senior UI Designer,
+    icon: "icon-3.png",
+    date: "Sep 2014 - Present",
+    organization: "THEMEFISHER",
+  }
 
 #-------------------------------
 # Education Section
@@ -123,25 +123,25 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
-    }
+    name: Marters in UX Design,
+    date: "2006",
+    organization: "Masassusets Institute of Technology",
+  }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
+    name: Honours in Fine Arts,
+    date: "2004",
+    organization: "Harvard University",
+  }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
+    name: Higher Secondary Certificat,
+    date: "2000",
+    organization: "Cardiff School",
+  }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+    name: Secondary School Certificate,
+    date: "1998",
+    organization: "Cardiff School",
+  }
 
 #-------------------------------
 # Services Section
@@ -149,23 +149,23 @@ education:
 services-title: Services
 services:
   - {
-      name: Development,
-      icon: ti-layout-slider,
-      description: "develop and build reliable software and apps with future-proof technologies that fit your business requirements.",
-      active: true # Add true to select section
-    }
+    name: Development,
+    icon: ti-layout-slider,
+    description: "develop and build reliable software and apps with future-proof technologies that fit your business requirements.",
+    active: true # Add true to select section
+  }
   - {
-      name: UX Design,
-      icon: ti-layout-column4-alt,
-      description: "Using the latest techniques in UX and UI, we co-create with you and your users a fancy application usage experiences",
-      active: true, # Add true to select section
-    }
+    name: UX Design,
+    icon: ti-layout-column4-alt,
+    description: "Using the latest techniques in UX and UI, we co-create with you and your users a fancy application usage experiences",
+    active: true, # Add true to select section
+  }
   - {
-      name: Integration,
-      icon: ti-layout-grid3,
-      description: "Let your systems and those of your partners connect and cooperate to deliver highly robust services.",
-      active: true # Add true to select section
-    }
+    name: Integration,
+    icon: ti-layout-grid3,
+    description: "Let your systems and those of your partners connect and cooperate to deliver highly robust services.",
+    active: true # Add true to select section
+  }
 
 
 #-------------------------------
@@ -248,54 +248,49 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Willy Regonne Grey"
+    image: "assets/images/testimonial/client-1.jpeg"
+    designation: "Total Energies"
+    content: "It has been a real pleasure to work with Reda for many years. He has solid technical bases and knows how to deal with difficulties. This height of view has allowed us to move forward effectively on many application projects at Dassault Systèmes. Finally Reda is an empathetic and benevolent person, which makes him a natural leader!"
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Vincent Dedeban"
+    image: "assets/images/testimonial/client-2.jpeg"
+    designation: "GE Healthcare"
+    content: "I worked with Reda in GE healthcare. He was part of a scrum team. He managed to take on complex developments on his own. He always tried to understand the reasons for a particular decision. He proactively made suggestions to improve the code, the design, and the processes of the team."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Yves Sterbak-Dicke"
+    image: "assets/images/testimonial/client-3.jpeg"
+    designation: "Protostellar CEO"
+    content: "I worked with Reda over 2 years. He is really a smart guy and is very engaged. Was just nice to have him in the team."
+
+  - name: "Zoumana TRAORE"
+    image: "assets/images/testimonial/client-4.jpeg"
+    designation: "Cloudly Yours CEO"
+    content: "I had the pleasure to work with Reda within the same organization. Reda's team was providing technologies used by mine to build services that create values for Dassaut Systèmes PaaS/ Cloud 
+
+Always nice, calm and professionnal to work with even during crisis, Reda was one of the top people i know around looking to stay up to date with leading frameworks, tools and architectures. Very curious and ambitious. 
+
+I recommend him for any 
+Software Architect, Lead Dev, Team Lead, Technology Manager and Cloud and app expert roles you may have to provide to a realiable person."
 
 #-------------------------------
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-6.png"
+    url: "https://www.3ds.com/"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-7.png"
+    url: "https://www.gehealthcare.com/"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-8.png"
+    url: "https://www.thalesdigital.io/en/"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-9.png"
+    url: "https://protostellar.eu/en/start/"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-10.png"
+    url: "https://www.cartier.com/"
 
 #-------------------------------
 # Contact Section
